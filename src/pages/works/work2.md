@@ -1,22 +1,19 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+title: Agencia IdeasPro
+date: 2022 - 2025
+url: https://agenciaideaspro.cl/
+location: Talca, Chile
+org: Agencia IdeasPro
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Marketing Digital",
+    "Páginas web",
+    "Gestión de filas",
+    "Sistema RIS dental",
+    "Automatización de procesos"
   ]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- He trabajado de manera fulltime durante 3 años en el área de desarrollo de software de una agencia de marketing digital, realizando proyectos para distintos clientes.
+- Para la misma empresa, he logrado automatizar procesos de respaldo de información, páginas web, armado de cableado de redes y reuniones con distintos clientes.
+- Entre los distintos proyectos han estado: un sistema ris para empresa de radiografías dentales, gestión de filas para empresa de radiografías dentales, páginas web para doctores, dentistas y empresas de capaticiones empresariales, además de creación de scripts para la automtización de respaldo de datos de las distintas empresas los cuales están más a detalle en la sección de "proyectos"

@@ -1,13 +1,12 @@
 ---
-title: Servicios Postales
-date: 2022
-url: [https://serviciospostales.cl/, https://github.com/Daniher01/serviciospostales]
-location: Talca, Chile
-org: [Servicios Postales, Código Fuente]
-tags: ["PHP", "Javascript", "MySQL", "Boostrap", "Git"]
+title: Datazul - Club Universidad de Chile
+date: 2025
+url: [https://www.udechile.cl/]
+location: Santiago, Chile
+org: [Club Universidad de Chile]
+tags: ["Club de Fútbol", "Desarrollo e Innovación", "Análisis de datos"]
 ---
 
-- Trabajé durante 6 meses de manera freelance en un sistema web para un departamento de la universidad de talca, en chile. 
-- El sistema permitió la gestión de envíos de paquetes de manera interna entre departamentos de la universidad, optimizando la organización en la gestión de paquetes.
-- Desarrollé tanto el backend como el frontend de la aplicación, permitiendo la conexión del backend con aplicaciones móviles.
-- Entre las funcionalidades el sistema están la gestión de distintos paquetes mediantes estados, la carga masiva de registro de paquetes, la generación de tickets para la entrega de los paquetes, además de temás básicos como la autenticación y autorización con los distintos roles de usuarios.
+- He trabajado de manera freelance para el Departamento de Desarrollo e Innovación del Club Universidad de chile de la primera división del fútbol profesional chileno.
+- Este proyecto ha permitidos centralizar los datos de los distintos departamentos y las distintas categorías del club, optimizando los tiempos y mejorando la comunicación entre ellos, mediante una plataforma web, que permite el ingreso y visualización de los datos.
+- Además de la plataforma, me ha tocado gestionar la infraestructura de la plataforma mediante Azure, administrar SSL y base de datos, además de la conversión automática de los datos desde csv a sql de manera recurrente.
