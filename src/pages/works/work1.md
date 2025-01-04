@@ -1,14 +1,13 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Servicios Postales
+date: 2022
+url: [https://serviciospostales.cl/, https://github.com/Daniher01/serviciospostales]
+location: Talca, Chile
+org: [Servicios Postales, Código Fuente]
+tags: ["PHP", "Javascript", "MySQL", "Boostrap", "Git"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Trabajé durante 6 meses de manera freelance en un sistema web para un departamento de la universidad de talca, en chile. 
+- El sistema permitió la gestión de envíos de paquetes de manera interna entre departamentos de la universidad, optimizando la organización en la gestión de paquetes.
+- Desarrollé tanto el backend como el frontend de la aplicación, permitiendo la conexión del backend con aplicaciones móviles.
+- Entre las funcionalidades el sistema están la gestión de distintos paquetes mediantes estados, la carga masiva de registro de paquetes, la generación de tickets para la entrega de los paquetes, además de temás básicos como la autenticación y autorización con los distintos roles de usuarios.

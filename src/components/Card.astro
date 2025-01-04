@@ -41,10 +41,22 @@ const { timeframe, title, description, url, tags, url_name, location } =
       </div>
 
       <div class="self-center justify-self-end">
+      {Array.isArray(url) && Array.isArray(url_name) ? (
+        // 📝 Mostrar si son listas
+        url.map((u, index) => (
+          <a href={u} target="_blank" class="link link-hover text-sm text-right flex justify-center items-center" key={index}>
+            {url_name[index]}
+            {u !== "#" && <Icon name="carbon:link" class="w-4 h-4 ml-2" />}
+          </a>
+        ))
+      ) : (
+        // 📝 Mostrar si son valores simples
         <a href={url} target="_blank" class="link link-hover text-sm text-right flex justify-center items-center">
           {url_name}
           {url !== "#" && <Icon name="carbon:link" class="w-4 h-4 ml-2" />}
         </a>
+      )}
+
       </div>
     </div>
   </div>
