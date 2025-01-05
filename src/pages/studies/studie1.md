@@ -1,15 +1,12 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Analista Programador
+location: Talca, Chile
+url: https://www.cftsanagustin.cl/
+institute: CFT San Agustín
+date: 2020 - 2022
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Analista Programador",
+    "Desarrollo de Software",
   ]
 ---

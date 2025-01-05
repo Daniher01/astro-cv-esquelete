@@ -1,6 +1,6 @@
 ---
-title: Datazul - Club Universidad de Chile
-date: 2025
+title: Freelance - Club Universidad de Chile
+date: 2024 - Actualmente
 url: [https://www.udechile.cl/]
 location: Santiago, Chile
 org: [Club Universidad de Chile]

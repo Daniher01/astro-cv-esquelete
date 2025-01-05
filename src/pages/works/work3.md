@@ -1,5 +1,5 @@
 ---
-title: Servicios Postales
+title: Freelance - Servicios Postales
 date: 2022
 url: [https://serviciospostales.cl/]
 location: Talca, Chile
