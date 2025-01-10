@@ -1,5 +1,5 @@
 ---
-title: Agencia IdeasPro
+title: Agencia de Marketing Digital IdeasPro
 date: 2022 - 2025
 url: https://agenciaideaspro.cl/
 location: Talca, Chile
