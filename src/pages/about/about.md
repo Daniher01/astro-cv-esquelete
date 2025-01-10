@@ -1,6 +1,6 @@
 ---
 title: Sobre Mí
-name: "Daniel Hernandez"
+name: "Daniel Hernández"
 designation: "Desarrollador Web"
 location: Málaga, España
 #pronouns: "he/him/el"
