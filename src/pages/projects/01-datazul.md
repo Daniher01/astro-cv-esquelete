@@ -1,7 +1,7 @@
 ---
 title: Datazul
 url: https://www.datazul.cl/
-tags: ["django", "javaScript", "HTML", "CSS", "Boostrap", "Docker", "Caprover"]
+tags: ["django", "javaScript", "HTML", "CSS", "Boostrap", "Docker", "Caprover", "Azure"]
 date: 2024
 ---
 
