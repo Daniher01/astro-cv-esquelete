@@ -1,6 +1,6 @@
 ---
 title: Scouting Jugadores
-url: https://github.com/Daniher01/scouting_top_5_ligas
+url: https://dhernandezm.shinyapps.io/scouting_app/
 tags: ["R", "Shiny App", "Análisis de datos", "Scouting", "StatsBomb"]
 date: 2023
 ---
