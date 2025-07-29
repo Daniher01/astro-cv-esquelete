@@ -1,7 +1,7 @@
 ---
 title: Sobre Mí
 name: "Daniel Hernández"
-designation: "Desarrollador Web"
+designation: "Desarrollador Full-Stack"
 location: Málaga, España
 #pronouns: "he/him/el"
 website: "https://dhernandez.dev"
